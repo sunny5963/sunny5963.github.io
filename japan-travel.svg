@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" role="img" aria-label="일본 여행 - 후지산, 도리이, 벚꽃">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <title>Japan Travel</title>
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#ffd1dc"/>
@@ -7,20 +9,15 @@
     </linearGradient>
   </defs>
 
-  <!-- 하늘 -->
   <rect width="800" height="400" fill="url(#sky)"/>
 
-  <!-- 해 -->
   <circle cx="400" cy="130" r="70" fill="#e60026" opacity="0.9"/>
 
-  <!-- 후지산 -->
   <polygon points="130,330 400,110 670,330" fill="#4a6fa5"/>
   <polygon points="400,110 340,160 370,150 400,175 430,150 460,160" fill="#ffffff"/>
 
-  <!-- 땅 -->
   <rect y="320" width="800" height="80" fill="#6b8e5a"/>
 
-  <!-- 도리이 -->
   <g fill="#d9232d">
     <rect x="130" y="230" width="14" height="110"/>
     <rect x="236" y="230" width="14" height="110"/>
@@ -28,7 +25,6 @@
     <rect x="120" y="242" width="140" height="9"/>
   </g>
 
-  <!-- 벚나무 -->
   <rect x="620" y="250" width="14" height="90" fill="#6d4c41"/>
   <g fill="#ffb7c5">
     <circle cx="627" cy="235" r="42"/>
@@ -36,7 +32,6 @@
     <circle cx="660" cy="255" r="28"/>
   </g>
 
-  <!-- 흩날리는 벚꽃잎 -->
   <g fill="#ff9bb3" opacity="0.85">
     <ellipse cx="520" cy="200" rx="6" ry="3" transform="rotate(30 520 200)"/>
     <ellipse cx="560" cy="270" rx="6" ry="3" transform="rotate(-20 560 270)"/>
@@ -44,6 +39,5 @@
     <ellipse cx="700" cy="300" rx="6" ry="3" transform="rotate(10 700 300)"/>
   </g>
 
-  <!-- 타이틀 -->
   <text x="400" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#ffffff">JAPAN TRAVEL</text>
 </svg>
