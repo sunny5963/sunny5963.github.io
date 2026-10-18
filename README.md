@@ -2,7 +2,7 @@
 
 # 🗾 일본 여행 준비는 이렇게 하는겁니다.
 
-![일본 여행](https://example.com/image.png)
+<img src="./japan-travel.svg" width="600" alt="일본 여행">
 
 *처음 가는 일본 여행도 막힘없이! 출발 전 체크리스트 모음*
 
